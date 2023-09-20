@@ -3,7 +3,8 @@
 
 Django and DRF developer crafting robust web applications. 🚀 Passionate about efficient code and elegant solutions. Let's make progress...
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,linux)](https://skillicons.dev)
+##Skills:
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) Python
 
 
 
