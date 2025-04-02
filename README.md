@@ -14,7 +14,13 @@ DevOps engineer passionate about automation and optimizing workflows for scalabl
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=prometheus)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=openshift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bamboo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jfrog)](https://skillicons.dev)
+
 
 
 
